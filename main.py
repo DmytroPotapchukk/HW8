@@ -7,7 +7,8 @@ weekdays = {
     3: 'Thursday',
     4: 'Friday',
     5: 'Monday',
-    6: 'Monday',}
+    6: 'Monday',
+    }
 
 
 def get_birthdays_per_week(users):
